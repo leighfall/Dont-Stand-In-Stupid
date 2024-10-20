@@ -10,5 +10,8 @@
   "dependencies": {
     "@nuxt/content": "^2.13.4",
     "nuxt": "^3.13.2"
+  },
+  "devDependencies": {
+    "sass-embedded": "^1.80.3"
   }
 }
